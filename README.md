@@ -1,13 +1,15 @@
-# 👋 Hi, I'm Sargeist
+# 👋 Hi, I'm Alex (Sargeist)
 
-💻 **Full-Stack Developer** with a passion for building modern web applications and working on **cybersecurity projects**.  
+💻 **Full-Stack Developer** with a passion for building modern, scalable web applications and exploring **cybersecurity**.  
+⚡ I enjoy combining development with security to create robust and reliable solutions.  
 
 ---
 
 ## 🚀 About Me
-- 🖥️ Experienced in developing scalable web applications  
-- 🔐 Contributed to cybersecurity projects (design & implementation of security protocols)  
-- 📚 Always learning and exploring new technologies  
+- 👨‍💻 Experienced in building **scalable web applications** (frontend & backend)  
+- 🔐 Contributed to **cybersecurity projects** (design & implementation of security protocols, threat modeling)  
+- 🌱 Constantly learning and experimenting with new technologies  
+- 🌍 Open to remote opportunities and international collaboration  
 
 ---
 
@@ -17,9 +19,9 @@
 ---
 
 ## 📌 Highlights
-- ✅ Developed web applications for companies in Ukraine  
-- ✅ Worked on security-focused solutions with an emphasis on robust architecture  
-- ✅ Love combining development & cybersecurity  
+- ✅ Developed and deployed **web applications** for companies in Ukraine  
+- ✅ Designed **security-focused solutions** with an emphasis on robust architecture  
+- ✅ Love combining **development & cybersecurity** in practical projects  
 
 ---
 
